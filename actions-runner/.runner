@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 21,
+  "agentName": "ADMIN-PC",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus13.actions.githubusercontent.com/UYrOw9CHYRM6agSkEQ111jjhqFZ87EsBwIGnLclfmbdAmkQxoJ/",
+  "gitHubUrl": "https://github.com/AyushRaj1329/myprojects2",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
